@@ -1,10 +1,10 @@
 %define _requires_exceptions pear.Image.Transform.Driver
-%define		_mp	MP21
+%define		_mp	MP23
 Epoch:		1
 Summary:	The WEB-based ERP
 Name:		openbravo
 Version:	2.50
-Release:	%mkrel 9
+Release:	%mkrel 10
 License:	GPLv3+
 Group:		Networking/Other
 URL:		http://www.openbravo.com/
