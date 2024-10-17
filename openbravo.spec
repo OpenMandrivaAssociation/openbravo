@@ -7,7 +7,7 @@ Version:	2.50
 Release:	%mkrel 10
 License:	GPLv3+
 Group:		Networking/Other
-URL:		http://www.openbravo.com/
+URL:		https://www.openbravo.com/
 Source0:	http://sourceforge.net/projects/openbravo/files/02-openbravo-sources/%{version}%{_mp}/OpenbravoERP-%{version}%{_mp}.tar.bz2
 Source1:	Openbravo.properties
 Source2:	log4j.lcf
